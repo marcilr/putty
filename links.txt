@@ -11,3 +11,5 @@ Links
 PuTTY
 https://www.putty.org
 
+PuTTY - Wikipedia
+https://en.wikipedia.org/wiki/PuTTY
