@@ -1,0 +1,21 @@
+putty-manager.txt
+Created Wed November 21, 2018
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Putty Manager
+
+
+Features:
+- A tabbed interface and dockable windows,
+- Fullscreen mode,
+- Working with existing PuTTY binary, or allow you to download
+  it directly from the official page
+- Lets you export/import PuTTY connections to single file,
+- Download it for free for any use!
+
+
+Links
+=====
+Putty Manager
+http://puttymanager.sourceforge.net
